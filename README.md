@@ -1,4 +1,4 @@
-***CAMERA EDR
+#CAMERA EDR
 This repos consists of Event Data Recorder. It records the video data around the event.
 
 Setup
